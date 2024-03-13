@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-STOW_FOLDERS=".config/nvim/init.vim,.vimrc,.zshrc,.fzf.zsh"
+STOW_FOLDERS=".config/nvim/init.vim,.vimrc,.zshrc,.fzf.zsh,.tmux.conf"
 
 DOT_FILES=$HOME/.dotfiles
 
