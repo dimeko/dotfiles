@@ -1,5 +1,7 @@
-set nocompatible              " be iMproved, required
-filetype off                  " required
+set number                     " Show current line number
+set relativenumber             " Show relative line numbers
+set nocompatible               " be iMproved, required
+filetype off                   " required
 set encoding=utf-8
 
 call plug#begin()
